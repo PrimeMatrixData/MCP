@@ -40,6 +40,7 @@
 - 打开软件
 - 打开聊天框（win系统快捷键Ctrl+U）
 - 单击右上角齿轮，选择mcp-> 添加-> 手动添加
+
   <img src="img/image-4.png" alt="alt text" width="400">
 - 
   <img src="img/image-5.png" alt="alt text" width="400">
@@ -66,5 +67,5 @@
    <img src="img/image-9.png" alt="alt text" width="400">
 2. 查一下中国黄金最近的风险情况。
    a. 示例回复：
-   
+
    <img src="img/image-10.png" alt="alt text" width="400">
