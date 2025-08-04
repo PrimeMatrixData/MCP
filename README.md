@@ -39,11 +39,16 @@
 
 - 打开软件
 - 打开聊天框（win系统快捷键Ctrl+U）
-- 单击右上角齿轮，选择mcp-> 添加-> 手动添加<img src="img/image-4.png" alt="alt text" width="400">
-- <img src="img/image-5.png" alt="alt text" width="400">
-- 将从官网复制的json代码填入如图所示的区域。需要保留最外层的"mcpServers"，不然会报错。<img src="img/image-6.png" alt="alt text" width="400">
-- 点击确认，等待mcp工具连接成功。如果连接失败，请检查密钥是否正确，或者向我们反馈。<img src="img/image-7.png" alt="alt text" width="400">
-- 在trae中新建智能体，调用工具，艾特智能体开始对话 ~ <img src="img/image-8.png" alt="alt text" width="400">
+- 单击右上角齿轮，选择mcp-> 添加-> 手动添加
+  <img src="img/image-4.png" alt="alt text" width="400">
+- 
+  <img src="img/image-5.png" alt="alt text" width="400">
+- 将从官网复制的json代码填入如图所示的区域。需要保留最外层的"mcpServers"，不然会报错。
+  <img src="img/image-6.png" alt="alt text" width="400">
+- 点击确认，等待mcp工具连接成功。如果连接失败，请检查密钥是否正确，或者向我们反馈。
+  <img src="img/image-7.png" alt="alt text" width="400">
+- 在trae中新建智能体，调用工具，艾特智能体开始对话 ~ 
+  <img src="img/image-8.png" alt="alt text" width="400">
 
 ### **STDIO版安装部署**
 
@@ -56,6 +61,8 @@
 ## **使用示例**
 
 1. 查一下阿里巴巴的负责人
-   a. 示例回复：<img src="img/image-9.png" alt="alt text" width="400">
+   a. 示例回复：
+   <img src="img/image-9.png" alt="alt text" width="400">
 2. 查一下中国黄金最近的风险情况。
-   a. 示例回复：<img src="img/image-10.png" alt="alt text" width="400">
+   a. 示例回复：
+   <img src="img/image-10.png" alt="alt text" width="400">
