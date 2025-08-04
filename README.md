@@ -62,7 +62,9 @@
 
 1. 查一下阿里巴巴的负责人
    a. 示例回复：
+
    <img src="img/image-9.png" alt="alt text" width="400">
 2. 查一下中国黄金最近的风险情况。
    a. 示例回复：
+   
    <img src="img/image-10.png" alt="alt text" width="400">
