@@ -1,0 +1,34 @@
+{
+  "name": "zhishu-mcp-tmp",
+  "version": "0.0.6",
+  "type": "module",
+  "main": "build/index.js",
+  "bin": {
+    "zhishu-mcp": "build/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "MCP Zhishu Server",
+  "scripts": {
+    "build": "tsc && node -e \"require('fs').chmodSync('build/index.js', '755')\""
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.5.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "minimist": "^1.2.8",
+    "node-fetch": "^3.3.2",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/dotenv": "^8.2.3",
+    "@types/express": "^5.0.3",
+    "@types/minimist": "^1.2.5",
+    "@types/node": "^22.13.5",
+    "@types/node-fetch": "^2.6.12",
+    "typescript": "^5.7.3"
+  }
+}
