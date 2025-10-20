@@ -4,7 +4,7 @@
 
 使用质数幻方提供的企业信息洞察 mcp 工具，精准探查到目标企业的工商信息、经营资质、风险情况等等，为您的AI接入最新的企业数据，省去网络搜索费token、企业总是关联不对的烦恼。
 
-根据法律法规要求，您需要从我们的官网注册后再使用 mcp 服务，官网链接 [https://mcp.yidian.cn](https://mcp.yidian.cn/?ref=readme)，全部服务限时免费。
+根据法律法规要求，您需要从我们的官网注册后再使用 mcp 服务，官网链接 [https://mcp.yidian.cn](https://mcp.yidian.cn/?ref=github)，全部服务限时免费。
 
 ## **工具介绍**
 
