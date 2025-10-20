@@ -1,8 +1,10 @@
+
+
 # **使用指南**
 
 使用质数幻方提供的企业信息洞察 mcp 工具，精准探查到目标企业的工商信息、经营资质、风险情况等等，为您的AI接入最新的企业数据，省去网络搜索费token、企业总是关联不对的烦恼。
 
-根据法律法规要求，您需要从我们的官网注册后再使用 mcp 服务，官网链接 [https://mcp.yidian.cn](https://mcp.yidian.cn)，全部服务限时免费。
+根据法律法规要求，您需要从我们的官网注册后再使用 mcp 服务，官网链接 [https://mcp.yidian.cn](https://mcp.yidian.cn/?ref=readme)，全部服务限时免费。
 
 ## **工具介绍**
 
@@ -96,7 +98,7 @@
 
 5. ### **获取企业知识产权信息**
 
-   - **函数名**：get_company_risk_info
+   - **函数名**：get_company_ip_info
 
    - **入参**：company_name: 公司精确名称。type:str
 
@@ -134,7 +136,7 @@
      企业股东信息,包括上市公司十大流通股（非上市公司为空）以及企业工商登记时  	的股东名称、持股比例、持股数量等。
 
 7. ### **获取企业荣誉信息**
-   - **函数名**：get_company_shareholder_info
+   - **函数名**：get_company_honor_info
    
    - **入参**：company_name: 公司精确名称。type:str
 
@@ -226,7 +228,7 @@
 
 11. ### **根据条件查询企业**
 
-     - **函数名**：get_company_job_info
+     - **函数名**：get_company_statistic_info
     
      - **入参**：
     
@@ -269,7 +271,7 @@
        **注意：**
        
        - industry为2017年国标行业分类,如C20,若用户输入行业描述,你需要找到最佳匹配的行业代码;start_date与end_date为企业成立时间的筛选条件,格式为YYYY-MM-DD;district_code为行政区域编码,如110000;查询页数,默认输入为1,若用户输入下一页,则页数加一。
-        
+       
        - 用户未提供的参数统一传入**空字符串**。
        
        - 调用该工具时无需调用get_company_percise_name工具。
